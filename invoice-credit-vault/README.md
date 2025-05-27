@@ -283,4 +283,4 @@ For questions and support:
 
 - Built on [Stacks](https://stacks.co/) blockchain
 - Developed with [Clarinet](https://github.com/hirosystems/clarinet)
-- Tested with [Vitest](https://vitest.dev/)
+- Tested with [Vitest](https://vitest.dev/)---------------
